@@ -6,6 +6,19 @@ the subagents, the commands, and the two files that survive a `/clear`.
 It is deliberately small. Everything here is markdown and one 120-line script, and that is
 the whole point of the talk: there is no dashboard, no config service, nothing to install.
 
+## The talk
+
+| File | What it is |
+|---|---|
+| `talk/brilliant-senior.pl.html` | the deck as delivered, in Polish |
+| `talk/brilliant-senior.en.html` | the English draft it was written from |
+
+One self-contained file each. Open it in a browser: no server, no network, nothing to
+install. Arrows or a click move a slide at a time, `F` is fullscreen, `O` is the overview,
+and digits followed by Enter jump to a slide number.
+
+Speaker notes are not in these files.
+
 ## Copy the mechanisms, not my content
 
 Every rule, convention and dead end in these files is an answer to a question **my**
