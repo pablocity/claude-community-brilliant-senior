@@ -1,0 +1,5 @@
+# Your machine only. Local paths, local allow-list, nobody else's business.
+.claude/settings.local.json
+
+# Written by the Stop hook, per session.
+.claude/.verify-stop/
