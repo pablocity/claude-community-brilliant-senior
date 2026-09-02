@@ -1,4 +1,4 @@
-# claude-code-setup
+# claude-community-brilliant-senior
 
 The `.claude/` directory from the talk **"The brilliant senior with amnesia"**: the hook,
 the subagents, the commands, and the two files that survive a `/clear`.
