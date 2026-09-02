@@ -22,7 +22,8 @@ The task: $ARGUMENTS
    - `## Acceptance` - the exact command that proves it
    - `## Out of scope` - and the reason for each
 
-3. Stop there and say the plan is ready for a `plan-reviewer` pass.
+3. Stop there. Say the plan is ready for a `plan-reviewer` pass, and that it gets built
+   with `/build` afterwards, not from this conversation.
 
 ## Rules
 
