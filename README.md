@@ -3,8 +3,8 @@
 The `.claude/` directory from the talk **"The brilliant senior with amnesia"**: the hook,
 the subagents, the commands, and the two files that survive a `/clear`.
 
-Written by [Paweł Woliński](https://www.linkedin.com/in/pawe%C5%82-woli%C5%84ski-505205148). If you were in the room, or you are putting
-this into your own repo and something does not behave, message me on LinkedIn.
+If you were in the room, or you are putting this into your own repo and something does not
+behave, [message me on LinkedIn](https://www.linkedin.com/in/pawe%C5%82-woli%C5%84ski-505205148).
 
 It is deliberately small. Everything here is markdown and one 120-line script, and that is
 the whole point of the talk: there is no dashboard, no config service, nothing to install.
