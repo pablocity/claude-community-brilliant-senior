@@ -3,8 +3,9 @@
 The `.claude/` directory from the talk **"The brilliant senior with amnesia"**: the hook,
 the subagents, the commands, and the two files that survive a `/clear`.
 
-If you were in the room, or you are putting this into your own repo and something does not
-behave, [message me on LinkedIn](https://www.linkedin.com/in/pawe%C5%82-woli%C5%84ski-505205148).
+[You can find me on LinkedIn](https://www.linkedin.com/in/pawe%C5%82-woli%C5%84ski-505205148), and you are always
+welcome to write: a question about any of this, something that does not behave in your own
+repo, or just to say you were in the room. I am more interested in your scars than your wins.
 
 It is deliberately small. Everything here is markdown and one 120-line script, and that is
 the whole point of the talk: there is no dashboard, no config service, nothing to install.
